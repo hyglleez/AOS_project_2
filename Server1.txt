@@ -1,0 +1,1065 @@
+received update from client 2
+Server1 hash 29 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 3
+received reply from server 2
+Server1 sends a response msg to client2.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 21 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received update from client 2
+Server1 hash 43 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client2.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 56 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received update from client 2
+Server1 hash 43 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client2.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received update from client 2
+Server1 hash 99 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client2.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received update from client 2
+Server1 hash 85 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client2.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 77 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received update from client 2
+Server1 hash 50 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client2.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received update from client 2
+Server1 hash 64 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client2.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received update from client 2
+Server1 hash 92 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client2.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received update from client 2
+Server1 hash 43 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client2.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received update from client 2
+Server1 hash 50 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client2.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received update from client 2
+Server1 hash 1 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 3
+received reply from server 2
+Server1 sends a response msg to client2.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 83 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 42 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 98 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 42 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received update from client 2
+Server1 hash 15 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client2.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 70 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received update from client 2
+Server1 hash 22 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client2.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 63 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received update from client 2
+Server1 hash 8 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client2.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 28 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 20 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 0 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received update from client 2
+Server1 hash 43 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client2.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 0 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 56 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 84 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 55 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 91 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 14 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 49 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 77 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received update from client 2
+Server1 hash 50 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client2.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 7 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received update from client 2
+Server1 hash 92 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client2.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received update from client 2
+Server1 hash 78 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 3
+received reply from server 2
+Server1 sends a response msg to client2.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 34 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 91 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 98 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 63 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received update from client 2
+Server1 hash 36 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client2.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 6 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 0 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received update from client 2
+Server1 hash 85 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client2.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 76 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received update from client 2
+Server1 hash 99 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client2.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 2
+Server1 hash 21 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client2.
+received read from client 2
+received read from client 2
+received read from client 2
+received read from client 2
+received read from client 2
+received read from client 2
+received read from client 2
+received read from client 2
+received read from client 2
+received read from client 2
+received read from client 2
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 7 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 14 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received update from client 0
+Server1 hash 92 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client0.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 91 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 41 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 48 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 27 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 83 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 7 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 62 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 84 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 91 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 56 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 42 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received update from client 0
+Server1 hash 71 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client0.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received update from client 0
+Server1 hash 78 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client0.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received update from client 0
+Server1 hash 36 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client0.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 13 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 91 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 76 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 42 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 14 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 41 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 7 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received update from client 0
+Server1 hash 57 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 3
+received reply from server 2
+Server1 sends a response msg to client0.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received update from client 0
+Server1 hash 22 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client0.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received update from client 0
+Server1 hash 22 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client0.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 0 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 14 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 41 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 70 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 0 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 62 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 35 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 14 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 34 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 97 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received update from client 0
+Server1 hash 99 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client0.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received update from client 0
+Server1 hash 8 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client0.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 34 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received update from client 0
+Server1 hash 78 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client0.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 35 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 13 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received update from client 0
+Server1 hash 57 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client0.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 0
+Server1 hash 76 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client0.
+received update from client 0
+Server1 hash 1 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client0.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received read from client 0
+received read from client 0
+received read from client 0
+received read from client 0
+received read from client 0
+received read from client 0
+received read from client 0
+received read from client 0
+received read from client 0
+received read from client 0
+received read from client 0
+received read from client 0
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 20 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received update from client 1
+Server1 hash 1 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client1.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 69 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 70 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 56 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received update from client 1
+Server1 hash 29 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client1.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 27 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 77 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received update from client 1
+Server1 hash 71 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client1.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 0 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received update from client 1
+Server1 hash 71 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client1.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received update from client 1
+Server1 hash 29 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client1.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received update from client 1
+Server1 hash 8 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client1.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 28 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 62 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received update from client 1
+Server1 hash 78 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client1.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received update from client 1
+Server1 hash 71 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client1.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 35 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received update from client 1
+Server1 hash 57 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client1.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 21 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 76 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 90 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received update from client 1
+Server1 hash 29 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client1.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received update from client 1
+Server1 hash 85 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client1.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 21 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received update from client 1
+Server1 hash 64 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client1.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 69 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 34 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 41 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received update from client 1
+Server1 hash 29 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client1.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received update from client 1
+Server1 hash 71 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client1.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received update from client 1
+Server1 hash 43 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client1.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 83 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 13 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 55 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 41 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received update from client 1
+Server1 hash 50 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client1.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 70 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received update from client 1
+Server1 hash 99 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client1.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received update from client 1
+Server1 hash 64 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client1.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 62 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 20 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 90 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 28 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 91 to Array [0, 1, 2]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received update from client 1
+Server1 hash 71 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 2
+received reply from server 3
+Server1 sends a response msg to client1.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received update from client 1
+Server1 hash 92 to Array [1, 2, 3]
+Server1 sends a request msg to server2.
+Server1 sends a request msg to server3.
+received reply from server 3
+received reply from server 2
+Server1 sends a response msg to client1.
+Server1 sends a release msg to server2.
+Server1 sends a release msg to server3.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 76 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received request from server 0
+Server1 sends a reply msg to server0.
+received update from client 1
+Server1 hash 90 to Array [0, 1, 6]
+Server1 is not Master Node, can't process message
+Server1 sends a response msg to client1.
+received read from client 1
+received read from client 1
+received read from client 1
+received read from client 1
+received read from client 1
+received read from client 1
+received read from client 1
+received read from client 1
+received read from client 1
+received read from client 1
+received read from client 1
+received read from client 1
+received read from client 1

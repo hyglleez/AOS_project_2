@@ -1,0 +1,1197 @@
+received update from client 2
+Server0 hash 68 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 5
+received reply from server 6
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 2
+Server0 hash 19 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 5
+received reply from server 6
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 2
+Server0 hash 89 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 5
+received reply from server 6
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 2
+Server0 hash 19 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 5
+received reply from server 6
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 2
+Server0 hash 5 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 5
+received reply from server 6
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 2
+Server0 hash 21 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 2
+received reply from server 1
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 2
+Server0 hash 47 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 5
+received reply from server 6
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 2
+Server0 hash 56 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 2
+Server0 hash 82 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 5
+received reply from server 6
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 2
+Server0 hash 77 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 2
+received reply from server 1
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 2
+Server0 hash 83 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 2
+Server0 hash 42 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 2
+Server0 hash 98 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 2
+Server0 hash 42 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 2
+Server0 hash 70 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 2
+Server0 hash 5 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 6
+received reply from server 5
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 2
+Server0 hash 63 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 2
+Server0 hash 75 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 5
+received reply from server 6
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 2
+Server0 hash 47 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 6
+received reply from server 5
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 2
+Server0 hash 28 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 2
+Server0 hash 61 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 6
+received reply from server 5
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 2
+Server0 hash 20 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 2
+Server0 hash 0 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 2
+received reply from server 1
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 2
+Server0 hash 0 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 2
+Server0 hash 56 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 2
+Server0 hash 84 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 2
+Server0 hash 55 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 2
+Server0 hash 91 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 2
+Server0 hash 89 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 5
+received reply from server 6
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 2
+Server0 hash 14 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 2
+Server0 hash 96 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 5
+received reply from server 6
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 2
+Server0 hash 49 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 2
+Server0 hash 77 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 2
+Server0 hash 7 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 2
+Server0 hash 68 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 5
+received reply from server 6
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 2
+Server0 hash 34 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 2
+Server0 hash 91 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 2
+Server0 hash 98 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 2
+received reply from server 1
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 2
+Server0 hash 63 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 2
+Server0 hash 47 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 5
+received reply from server 6
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 2
+Server0 hash 33 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 5
+received reply from server 6
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 2
+Server0 hash 6 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 2
+Server0 hash 0 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 2
+Server0 hash 76 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 2
+Server0 hash 21 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 2
+Server0 hash 26 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 5
+received reply from server 6
+Server0 sends a response msg to client2.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received read from client 2
+received read from client 2
+received read from client 2
+received read from client 2
+received read from client 2
+received read from client 2
+received update from client 0
+Server0 hash 7 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 0
+Server0 hash 14 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 0
+Server0 hash 91 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 0
+Server0 hash 41 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 0
+Server0 hash 48 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 0
+Server0 hash 27 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 0
+Server0 hash 83 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 0
+Server0 hash 7 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 0
+Server0 hash 12 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 6
+received reply from server 5
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 0
+Server0 hash 62 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 0
+Server0 hash 84 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 0
+Server0 hash 91 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 0
+Server0 hash 19 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 6
+received reply from server 5
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 0
+Server0 hash 56 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 0
+Server0 hash 42 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 2
+received reply from server 1
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 0
+Server0 hash 68 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 5
+received reply from server 6
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 0
+Server0 hash 13 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 0
+Server0 hash 91 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 2
+received reply from server 1
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 0
+Server0 hash 76 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 0
+Server0 hash 96 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 6
+received reply from server 5
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 0
+Server0 hash 42 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 0
+Server0 hash 14 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 0
+Server0 hash 41 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 0
+Server0 hash 7 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 0
+Server0 hash 0 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 2
+received reply from server 1
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 0
+Server0 hash 14 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 0
+Server0 hash 75 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 6
+received reply from server 5
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 0
+Server0 hash 26 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 5
+received reply from server 6
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 0
+Server0 hash 41 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 0
+Server0 hash 70 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 0
+Server0 hash 0 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 0
+Server0 hash 62 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 0
+Server0 hash 35 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 0
+Server0 hash 5 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 6
+received reply from server 5
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 0
+Server0 hash 14 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 0
+Server0 hash 34 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 0
+Server0 hash 97 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 0
+Server0 hash 75 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 6
+received reply from server 5
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 0
+Server0 hash 34 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 0
+Server0 hash 35 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 0
+Server0 hash 13 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 0
+Server0 hash 76 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 0
+Server0 hash 68 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 5
+received reply from server 6
+Server0 sends a response msg to client0.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received read from client 0
+received read from client 0
+received read from client 0
+received read from client 0
+received read from client 0
+received read from client 0
+received read from client 0
+received update from client 1
+Server0 hash 20 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 96 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 6
+received reply from server 5
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 69 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 82 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 6
+received reply from server 5
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 12 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 6
+received reply from server 5
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 70 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 2
+received reply from server 1
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 1
+Server0 hash 26 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 6
+received reply from server 5
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 56 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 1
+Server0 hash 27 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 77 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 1
+Server0 hash 75 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 5
+received reply from server 6
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 96 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 5
+received reply from server 6
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 0 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 1
+Server0 hash 19 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 6
+received reply from server 5
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 28 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 1
+Server0 hash 62 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 35 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 1
+Server0 hash 21 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 1
+Server0 hash 76 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 90 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 21 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 2
+received reply from server 1
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 1
+Server0 hash 54 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 6
+received reply from server 5
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 69 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 68 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 6
+received reply from server 5
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 34 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 5 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 6
+received reply from server 5
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 41 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 83 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 13 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 19 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 6
+received reply from server 5
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 55 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 41 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 70 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 1
+Server0 hash 96 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 6
+received reply from server 5
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 62 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 20 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 90 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 6
+received reply from server 1
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 28 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 1
+Server0 hash 91 to Array [0, 1, 2]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server2.
+received reply from server 1
+received reply from server 2
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server2.
+received update from client 1
+Server0 hash 76 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 26 to Array [0, 5, 6]
+Server0 sends a request msg to server5.
+Server0 sends a request msg to server6.
+received reply from server 6
+received reply from server 5
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server5.
+Server0 sends a release msg to server6.
+received update from client 1
+Server0 hash 90 to Array [0, 1, 6]
+Server0 sends a request msg to server1.
+Server0 sends a request msg to server6.
+received reply from server 1
+received reply from server 6
+Server0 sends a response msg to client1.
+Server0 sends a release msg to server1.
+Server0 sends a release msg to server6.
+received read from client 1
+received read from client 1
+received read from client 1
+received read from client 1
+received read from client 1

@@ -1,0 +1,524 @@
+client0 requests to insert/update object 79 on server2.
+client0 receives a success message from server2, and the object value is 79.0.
+client0 requests to insert/update object 79 on server3.
+client0 requests to insert/update object 79 on server4.
+client0 requests to insert/update object 87 on server3.
+client0 receives a success message from server3, and the object value is 87.0.
+client0 requests to insert/update object 87 on server4.
+client0 requests to insert/update object 87 on server5.
+client0 requests to insert/update object 96 on server5.
+client0 requests to insert/update object 96 on server6.
+client0 requests to insert/update object 96 on server0.
+client0 receives a success message from server0, and the object value is 96.0.
+client0 requests to insert/update object 38 on server3.
+client0 receives a success message from server3, and the object value is 38.0.
+client0 requests to insert/update object 38 on server4.
+client0 requests to insert/update object 38 on server5.
+client0 requests to insert/update object 54 on server5.
+client0 requests to insert/update object 54 on server6.
+client0 requests to insert/update object 54 on server0.
+client0 receives a success message from server0, and the object value is 54.0.
+client0 requests to insert/update object 94 on server3.
+client0 receives a success message from server3, and the object value is 94.0.
+client0 requests to insert/update object 94 on server4.
+client0 requests to insert/update object 94 on server5.
+client0 requests to insert/update object 93 on server2.
+client0 receives a success message from server2, and the object value is 93.0.
+client0 requests to insert/update object 93 on server3.
+client0 requests to insert/update object 93 on server4.
+client0 requests to insert/update object 56 on server0.
+client0 receives a success message from server0, and the object value is 56.0.
+client0 requests to insert/update object 56 on server1.
+client0 requests to insert/update object 56 on server2.
+client0 requests to insert/update object 10 on server3.
+client0 receives a success message from server3, and the object value is 10.0.
+client0 requests to insert/update object 10 on server4.
+client0 requests to insert/update object 10 on server5.
+client0 requests to insert/update object 76 on server6.
+client0 requests to insert/update object 76 on server0.
+client0 receives a success message from server0, and the object value is 76.0.
+client0 requests to insert/update object 76 on server1.
+client0 requests to insert/update object 5 on server5.
+client0 requests to insert/update object 5 on server6.
+client0 requests to insert/update object 5 on server0.
+client0 receives a success message from server0, and the object value is 5.0.
+client0 requests to insert/update object 66 on server3.
+client0 receives a success message from server3, and the object value is 66.0.
+client0 requests to insert/update object 66 on server4.
+client0 requests to insert/update object 66 on server5.
+client0 requests to insert/update object 38 on server3.
+client0 receives a success message from server3, and the object value is 38.0.
+client0 requests to insert/update object 38 on server4.
+client0 requests to insert/update object 38 on server5.
+client0 requests to insert/update object 9 on server2.
+client0 receives a success message from server2, and the object value is 9.0.
+client0 requests to insert/update object 9 on server3.
+client0 requests to insert/update object 9 on server4.
+client0 requests to insert/update object 19 on server5.
+client0 requests to insert/update object 19 on server6.
+client0 requests to insert/update object 19 on server0.
+client0 receives a success message from server0, and the object value is 19.0.
+client0 requests to insert/update object 30 on server2.
+client0 receives a success message from server2, and the object value is 30.0.
+client0 requests to insert/update object 30 on server3.
+client0 requests to insert/update object 30 on server4.
+client0 requests to insert/update object 42 on server0.
+client0 receives a success message from server0, and the object value is 42.0.
+client0 requests to insert/update object 42 on server1.
+client0 requests to insert/update object 42 on server2.
+client0 requests to insert/update object 90 on server6.
+client0 requests to insert/update object 90 on server0.
+client0 receives a success message from server0, and the object value is 90.0.
+client0 requests to insert/update object 90 on server1.
+client0 requests to insert/update object 87 on server3.
+client0 receives a success message from server3, and the object value is 87.0.
+client0 requests to insert/update object 87 on server4.
+client0 requests to insert/update object 87 on server5.
+client0 requests to insert/update object 68 on server5.
+client0 requests to insert/update object 68 on server6.
+client0 requests to insert/update object 68 on server0.
+client0 receives a success message from server0, and the object value is 68.0.
+client0 requests to insert/update object 62 on server6.
+client0 requests to insert/update object 62 on server0.
+client0 receives a success message from server0, and the object value is 62.0.
+client0 requests to insert/update object 62 on server1.
+client0 requests to insert/update object 62 on server6.
+client0 requests to insert/update object 62 on server0.
+client0 receives a success message from server0, and the object value is 62.0.
+client0 requests to insert/update object 62 on server1.
+client0 requests to insert/update object 20 on server6.
+client0 requests to insert/update object 20 on server0.
+client0 receives a success message from server0, and the object value is 20.0.
+client0 requests to insert/update object 20 on server1.
+client0 requests to insert/update object 54 on server5.
+client0 requests to insert/update object 54 on server6.
+client0 requests to insert/update object 54 on server0.
+client0 receives a success message from server0, and the object value is 54.0.
+client0 requests to insert/update object 91 on server0.
+client0 receives a success message from server0, and the object value is 91.0.
+client0 requests to insert/update object 91 on server1.
+client0 requests to insert/update object 91 on server2.
+client0 requests to insert/update object 38 on server3.
+client0 receives a success message from server3, and the object value is 38.0.
+client0 requests to insert/update object 38 on server4.
+client0 requests to insert/update object 38 on server5.
+client0 requests to insert/update object 68 on server5.
+client0 requests to insert/update object 68 on server6.
+client0 requests to insert/update object 68 on server0.
+client0 receives a success message from server0, and the object value is 68.0.
+client0 requests to insert/update object 33 on server5.
+client0 requests to insert/update object 33 on server6.
+client0 requests to insert/update object 33 on server0.
+client0 receives a success message from server0, and the object value is 33.0.
+client0 requests to insert/update object 74 on server4.
+client0 receives a success message from server4, and the object value is 74.0.
+client0 requests to insert/update object 74 on server5.
+client0 requests to insert/update object 74 on server6.
+client0 requests to insert/update object 94 on server3.
+client0 receives a success message from server3, and the object value is 94.0.
+client0 requests to insert/update object 94 on server4.
+client0 requests to insert/update object 94 on server5.
+client0 requests to insert/update object 95 on server4.
+client0 receives a success message from server4, and the object value is 95.0.
+client0 requests to insert/update object 95 on server5.
+client0 requests to insert/update object 95 on server6.
+client0 requests to insert/update object 26 on server5.
+client0 requests to insert/update object 26 on server6.
+client0 requests to insert/update object 26 on server0.
+client0 receives a success message from server0, and the object value is 26.0.
+client0 requests to insert/update object 38 on server3.
+client0 receives a success message from server3, and the object value is 38.0.
+client0 requests to insert/update object 38 on server4.
+client0 requests to insert/update object 38 on server5.
+client0 requests to insert/update object 61 on server5.
+client0 requests to insert/update object 61 on server6.
+client0 requests to insert/update object 61 on server0.
+client0 receives a success message from server0, and the object value is 61.0.
+client0 requests to insert/update object 6 on server6.
+client0 requests to insert/update object 6 on server0.
+client0 receives a success message from server0, and the object value is 6.0.
+client0 requests to insert/update object 6 on server1.
+client0 requests to insert/update object 35 on server0.
+client0 receives a success message from server0, and the object value is 35.0.
+client0 requests to insert/update object 35 on server1.
+client0 requests to insert/update object 35 on server2.
+client0 requests to insert/update object 89 on server5.
+client0 requests to insert/update object 89 on server6.
+client0 requests to insert/update object 89 on server0.
+client0 receives a success message from server0, and the object value is 89.0.
+client0 requests to insert/update object 27 on server6.
+client0 requests to insert/update object 27 on server0.
+client0 receives a success message from server0, and the object value is 27.0.
+client0 requests to insert/update object 27 on server1.
+client0 requests to insert/update object 32 on server4.
+client0 receives a success message from server4, and the object value is 32.0.
+client0 requests to insert/update object 32 on server5.
+client0 requests to insert/update object 32 on server6.
+client0 requests to insert/update object 84 on server0.
+client0 receives a success message from server0, and the object value is 84.0.
+client0 requests to insert/update object 84 on server1.
+client0 requests to insert/update object 84 on server2.
+client0 requests to insert/update object 28 on server0.
+client0 receives a success message from server0, and the object value is 28.0.
+client0 requests to insert/update object 28 on server1.
+client0 requests to insert/update object 28 on server2.
+client0 requests to insert/update object 8 on server1.
+client0 receives a success message from server1, and the object value is 8.0.
+client0 requests to insert/update object 8 on server2.
+client0 requests to insert/update object 8 on server3.
+client0 requests to insert/update object 91 on server0.
+client0 receives a success message from server0, and the object value is 91.0.
+client0 requests to insert/update object 91 on server1.
+client0 requests to insert/update object 91 on server2.
+client0 requests to insert/update object 59 on server3.
+client0 receives a success message from server3, and the object value is 59.0.
+client0 requests to insert/update object 59 on server4.
+client0 requests to insert/update object 59 on server5.
+client0 requests to insert/update object 83 on server6.
+client0 requests to insert/update object 83 on server0.
+client0 receives a success message from server0, and the object value is 83.0.
+client0 requests to insert/update object 83 on server1.
+client0 requests to insert/update object 13 on server6.
+client0 requests to insert/update object 13 on server0.
+client0 receives a success message from server0, and the object value is 13.0.
+client0 requests to insert/update object 13 on server1.
+client0 requests to insert/update object 15 on server1.
+client0 receives a success message from server1, and the object value is 15.0.
+client0 requests to insert/update object 15 on server2.
+client0 requests to insert/update object 15 on server3.
+client0 requests to insert/update object 78 on server1.
+client0 receives a success message from server1, and the object value is 78.0.
+client0 requests to insert/update object 78 on server2.
+client0 requests to insert/update object 78 on server3.
+client0 requests to insert/update object 68 on server5.
+client0 requests to insert/update object 68 on server6.
+client0 requests to insert/update object 68 on server0.
+client0 receives a success message from server0, and the object value is 68.0.
+client0 requests to insert/update object 19 on server5.
+client0 requests to insert/update object 19 on server6.
+client0 requests to insert/update object 19 on server0.
+client0 receives a success message from server0, and the object value is 19.0.
+client0 requests to insert/update object 2 on server2.
+client0 receives a success message from server2, and the object value is 2.0.
+client0 requests to insert/update object 2 on server3.
+client0 requests to insert/update object 2 on server4.
+client0 requests to insert/update object 6 on server6.
+client0 requests to insert/update object 6 on server0.
+client0 receives a success message from server0, and the object value is 6.0.
+client0 requests to insert/update object 6 on server1.
+client0 requests to insert/update object 31 on server3.
+client0 receives a success message from server3, and the object value is 31.0.
+client0 requests to insert/update object 31 on server4.
+client0 requests to insert/update object 31 on server5.
+client0 requests to insert/update object 95 on server4.
+client0 receives a success message from server4, and the object value is 95.0.
+client0 requests to insert/update object 95 on server5.
+client0 requests to insert/update object 95 on server6.
+client0 requests to insert/update object 7 on server0.
+client0 receives a success message from server0, and the object value is 7.0.
+client0 requests to insert/update object 7 on server1.
+client0 requests to insert/update object 7 on server2.
+client0 requests to insert/update object 94 on server3.
+client0 receives a success message from server3, and the object value is 94.0.
+client0 requests to insert/update object 94 on server4.
+client0 requests to insert/update object 94 on server5.
+client0 requests to insert/update object 65 on server2.
+client0 receives a success message from server2, and the object value is 65.0.
+client0 requests to insert/update object 65 on server3.
+client0 requests to insert/update object 65 on server4.
+client0 requests to insert/update object 48 on server6.
+client0 requests to insert/update object 48 on server0.
+client0 receives a success message from server0, and the object value is 48.0.
+client0 requests to insert/update object 48 on server1.
+client0 requests to insert/update object 44 on server2.
+client0 receives a success message from server2, and the object value is 44.0.
+client0 requests to insert/update object 44 on server3.
+client0 requests to insert/update object 44 on server4.
+client0 requests to insert/update object 90 on server6.
+client0 requests to insert/update object 90 on server0.
+client0 receives a success message from server0, and the object value is 90.0.
+client0 requests to insert/update object 90 on server1.
+client0 requests to insert/update object 52 on server3.
+client0 receives a success message from server3, and the object value is 52.0.
+client0 requests to insert/update object 52 on server4.
+client0 requests to insert/update object 52 on server5.
+client0 requests to insert/update object 50 on server1.
+client0 receives a success message from server1, and the object value is 50.0.
+client0 requests to insert/update object 50 on server2.
+client0 requests to insert/update object 50 on server3.
+client0 requests to insert/update object 26 on server5.
+client0 requests to insert/update object 26 on server6.
+client0 requests to insert/update object 26 on server0.
+client0 receives a success message from server0, and the object value is 26.0.
+client0 requests to insert/update object 12 on server5.
+client0 requests to insert/update object 12 on server6.
+client0 requests to insert/update object 12 on server0.
+client0 receives a success message from server0, and the object value is 12.0.
+client0 requests to insert/update object 10 on server3.
+client0 receives a success message from server3, and the object value is 10.0.
+client0 requests to insert/update object 10 on server4.
+client0 requests to insert/update object 10 on server5.
+client0 requests to insert/update object 99 on server1.
+client0 receives a success message from server1, and the object value is 99.0.
+client0 requests to insert/update object 99 on server2.
+client0 requests to insert/update object 99 on server3.
+client0 requests to insert/update object 41 on server6.
+client0 requests to insert/update object 41 on server0.
+client0 receives a success message from server0, and the object value is 41.0.
+client0 requests to insert/update object 41 on server1.
+client0 requests to insert/update object 0 on server0.
+client0 receives a success message from server0, and the object value is 0.0.
+client0 requests to insert/update object 0 on server1.
+client0 requests to insert/update object 0 on server2.
+client0 requests to insert/update object 7 on server0.
+client0 receives a success message from server0, and the object value is 7.0.
+client0 requests to insert/update object 7 on server1.
+client0 requests to insert/update object 7 on server2.
+client0 requests to insert/update object 56 on server0.
+client0 receives a success message from server0, and the object value is 56.0.
+client0 requests to insert/update object 56 on server1.
+client0 requests to insert/update object 56 on server2.
+client0 requests to insert/update object 42 on server0.
+client0 receives a success message from server0, and the object value is 42.0.
+client0 requests to insert/update object 42 on server1.
+client0 requests to insert/update object 42 on server2.
+client0 requests to insert/update object 83 on server6.
+client0 requests to insert/update object 83 on server0.
+client0 receives a success message from server0, and the object value is 83.0.
+client0 requests to insert/update object 83 on server1.
+client0 requests to insert/update object 65 on server2.
+client0 receives a success message from server2, and the object value is 65.0.
+client0 requests to insert/update object 65 on server3.
+client0 requests to insert/update object 65 on server4.
+client0 requests to insert/update object 85 on server1.
+client0 receives a success message from server1, and the object value is 85.0.
+client0 requests to insert/update object 85 on server2.
+client0 requests to insert/update object 85 on server3.
+client0 requests to insert/update object 8 on server1.
+client0 receives a success message from server1, and the object value is 8.0.
+client0 requests to insert/update object 8 on server2.
+client0 requests to insert/update object 8 on server3.
+client0 requests to insert/update object 9 on server2.
+client0 receives a success message from server2, and the object value is 9.0.
+client0 requests to insert/update object 9 on server3.
+client0 requests to insert/update object 9 on server4.
+client0 requests to insert/update object 48 on server6.
+client0 requests to insert/update object 48 on server0.
+client0 receives a success message from server0, and the object value is 48.0.
+client0 requests to insert/update object 48 on server1.
+client0 requests to insert/update object 21 on server0.
+client0 receives a success message from server0, and the object value is 21.0.
+client0 requests to insert/update object 21 on server1.
+client0 requests to insert/update object 21 on server2.
+client0 requests to insert/update object 57 on server1.
+client0 receives a success message from server1, and the object value is 57.0.
+client0 requests to insert/update object 57 on server2.
+client0 requests to insert/update object 57 on server3.
+client0 requests to insert/update object 34 on server6.
+client0 requests to insert/update object 34 on server0.
+client0 receives a success message from server0, and the object value is 34.0.
+client0 requests to insert/update object 34 on server1.
+client0 requests to insert/update object 33 on server5.
+client0 requests to insert/update object 33 on server6.
+client0 requests to insert/update object 33 on server0.
+client0 receives a success message from server0, and the object value is 33.0.
+client0 requests to insert/update object 67 on server4.
+client0 receives a success message from server4, and the object value is 67.0.
+client0 requests to insert/update object 67 on server5.
+client0 requests to insert/update object 67 on server6.
+client0 requests to insert/update object 53 on server4.
+client0 receives a success message from server4, and the object value is 53.0.
+client0 requests to insert/update object 53 on server5.
+client0 requests to insert/update object 53 on server6.
+client0 requests to insert/update object 82 on server5.
+client0 requests to insert/update object 82 on server6.
+client0 requests to insert/update object 82 on server0.
+client0 receives a success message from server0, and the object value is 82.0.
+client0 requests to insert/update object 91 on server0.
+client0 receives a success message from server0, and the object value is 91.0.
+client0 requests to insert/update object 91 on server1.
+client0 requests to insert/update object 91 on server2.
+client0 requests to insert/update object 79 on server2.
+client0 receives a success message from server2, and the object value is 79.0.
+client0 requests to insert/update object 79 on server3.
+client0 requests to insert/update object 79 on server4.
+client0 requests to insert/update object 97 on server6.
+client0 requests to insert/update object 97 on server0.
+client0 receives a success message from server0, and the object value is 97.0.
+client0 requests to insert/update object 97 on server1.
+client0 requests to insert/update object 45 on server3.
+client0 receives a success message from server3, and the object value is 45.0.
+client0 requests to insert/update object 45 on server4.
+client0 requests to insert/update object 45 on server5.
+client0 requests to insert/update object 27 on server6.
+client0 requests to insert/update object 27 on server0.
+client0 receives a success message from server0, and the object value is 27.0.
+client0 requests to insert/update object 27 on server1.
+client0 requests to insert/update object 13 on server6.
+client0 requests to insert/update object 13 on server0.
+client0 receives a success message from server0, and the object value is 13.0.
+client0 requests to insert/update object 13 on server1.
+client0 requests to insert/update object 42 on server0.
+client0 receives a success message from server0, and the object value is 42.0.
+client0 requests to insert/update object 42 on server1.
+client0 requests to insert/update object 42 on server2.
+client0 requests to insert/update object 34 on server6.
+client0 requests to insert/update object 34 on server0.
+client0 receives a success message from server0, and the object value is 34.0.
+client0 requests to insert/update object 34 on server1.
+client0 requests to insert/update object 42 on server0.
+client0 receives a success message from server0, and the object value is 42.0.
+client0 requests to insert/update object 42 on server1.
+client0 requests to insert/update object 42 on server2.
+client0 requests to insert/update object 97 on server6.
+client0 requests to insert/update object 97 on server0.
+client0 receives a success message from server0, and the object value is 97.0.
+client0 requests to insert/update object 97 on server1.
+client0 requests to insert/update object 18 on server4.
+client0 receives a success message from server4, and the object value is 18.0.
+client0 requests to insert/update object 18 on server5.
+client0 requests to insert/update object 18 on server6.
+client0 requests to insert/update object 68 on server5.
+client0 requests to insert/update object 68 on server6.
+client0 requests to insert/update object 68 on server0.
+client0 receives a success message from server0, and the object value is 68.0.
+client0 requests to insert/update object 84 on server0.
+client0 receives a success message from server0, and the object value is 84.0.
+client0 requests to insert/update object 84 on server1.
+client0 requests to insert/update object 84 on server2.
+client0 requests to insert/update object 10 on server3.
+client0 receives a success message from server3, and the object value is 10.0.
+client0 requests to insert/update object 10 on server4.
+client0 requests to insert/update object 10 on server5.
+client0 requests to insert/update object 30 on server2.
+client0 receives a success message from server2, and the object value is 30.0.
+client0 requests to insert/update object 30 on server3.
+client0 requests to insert/update object 30 on server4.
+client0 requests to insert/update object 80 on server3.
+client0 receives a success message from server3, and the object value is 80.0.
+client0 requests to insert/update object 80 on server4.
+client0 requests to insert/update object 80 on server5.
+client0 requests to read object 0 on server0.
+client0 receives a success message from server0, and the object value is 0.0.
+client0 requests to read object 2 on server3.
+client0 receives a success message from server3, and the object value is 2.0.
+client0 requests to read object 5 on server6.
+client0 receives a success message from server6, and the object value is 5.0.
+client0 requests to read object 6 on server6.
+client0 receives a success message from server6, and the object value is 6.0.
+client0 requests to read object 7 on server0.
+client0 receives a success message from server0, and the object value is 7.0.
+client0 requests to read object 8 on server3.
+client0 receives a success message from server3, and the object value is 8.0.
+client0 requests to read object 9 on server3.
+client0 receives a success message from server3, and the object value is 9.0.
+client0 requests to read object 10 on server3.
+client0 receives a success message from server3, and the object value is 10.0.
+client0 requests to read object 12 on server0.
+client0 receives a success message from server0, and the object value is 12.0.
+client0 requests to read object 13 on server6.
+client0 receives a success message from server6, and the object value is 13.0.
+client0 requests to read object 15 on server2.
+client0 receives a success message from server2, and the object value is 15.0.
+client0 requests to read object 18 on server4.
+client0 receives a success message from server4, and the object value is 18.0.
+client0 requests to read object 19 on server6.
+client0 receives a success message from server6, and the object value is 19.0.
+client0 requests to read object 20 on server1.
+client0 receives a success message from server1, and the object value is 20.0.
+client0 requests to read object 21 on server0.
+client0 receives a success message from server0, and the object value is 21.0.
+client0 requests to read object 26 on server6.
+client0 receives a success message from server6, and the object value is 26.0.
+client0 requests to read object 27 on server1.
+client0 receives a success message from server1, and the object value is 27.0.
+client0 requests to read object 28 on server2.
+client0 receives a success message from server2, and the object value is 28.0.
+client0 requests to read object 30 on server4.
+client0 receives a success message from server4, and the object value is 30.0.
+client0 requests to read object 31 on server5.
+client0 receives a success message from server5, and the object value is 31.0.
+client0 requests to read object 32 on server6.
+client0 receives a success message from server6, and the object value is 32.0.
+client0 requests to read object 33 on server5.
+client0 receives a success message from server5, and the object value is 33.0.
+client0 requests to read object 34 on server1.
+client0 receives a success message from server1, and the object value is 34.0.
+client0 requests to read object 35 on server0.
+client0 receives a success message from server0, and the object value is 35.0.
+client0 requests to read object 38 on server4.
+client0 receives a success message from server4, and the object value is 38.0.
+client0 requests to read object 41 on server0.
+client0 receives a success message from server0, and the object value is 41.0.
+client0 requests to read object 42 on server1.
+client0 receives a success message from server1, and the object value is 42.0.
+client0 requests to read object 44 on server3.
+client0 receives a success message from server3, and the object value is 44.0.
+client0 requests to read object 45 on server3.
+client0 receives a success message from server3, and the object value is 45.0.
+client0 requests to read object 48 on server6.
+client0 receives a success message from server6, and the object value is 48.0.
+client0 requests to read object 50 on server1.
+client0 receives a success message from server1, and the object value is 50.0.
+client0 requests to read object 52 on server5.
+client0 receives a success message from server5, and the object value is 52.0.
+client0 requests to read object 53 on server5.
+client0 receives a success message from server5, and the object value is 53.0.
+client0 requests to read object 54 on server0.
+client0 receives a success message from server0, and the object value is 54.0.
+client0 requests to read object 56 on server1.
+client0 receives a success message from server1, and the object value is 56.0.
+client0 requests to read object 57 on server2.
+client0 receives a success message from server2, and the object value is 57.0.
+client0 requests to read object 59 on server3.
+client0 receives a success message from server3, and the object value is 59.0.
+client0 requests to read object 61 on server5.
+client0 receives a success message from server5, and the object value is 61.0.
+client0 requests to read object 62 on server0.
+client0 receives a success message from server0, and the object value is 62.0.
+client0 requests to read object 65 on server4.
+client0 receives a success message from server4, and the object value is 65.0.
+client0 requests to read object 66 on server5.
+client0 receives a success message from server5, and the object value is 66.0.
+client0 requests to read object 67 on server4.
+client0 receives a success message from server4, and the object value is 67.0.
+client0 requests to read object 68 on server5.
+client0 receives a success message from server5, and the object value is 68.0.
+client0 requests to read object 74 on server5.
+client0 receives a success message from server5, and the object value is 74.0.
+client0 requests to read object 76 on server6.
+client0 receives a success message from server6, and the object value is 76.0.
+client0 requests to read object 78 on server2.
+client0 receives a success message from server2, and the object value is 78.0.
+client0 requests to read object 79 on server4.
+client0 receives a success message from server4, and the object value is 79.0.
+client0 requests to read object 80 on server4.
+client0 receives a success message from server4, and the object value is 80.0.
+client0 requests to read object 82 on server0.
+client0 receives a success message from server0, and the object value is 82.0.
+client0 requests to read object 83 on server0.
+client0 receives a success message from server0, and the object value is 83.0.
+client0 requests to read object 84 on server0.
+client0 receives a success message from server0, and the object value is 84.0.
+client0 requests to read object 85 on server2.
+client0 receives a success message from server2, and the object value is 85.0.
+client0 requests to read object 87 on server5.
+client0 receives a success message from server5, and the object value is 87.0.
+client0 requests to read object 89 on server5.
+client0 receives a success message from server5, and the object value is 89.0.
+client0 requests to read object 90 on server0.
+client0 receives a success message from server0, and the object value is 90.0.
+client0 requests to read object 91 on server0.
+client0 receives a success message from server0, and the object value is 91.0.
+client0 requests to read object 93 on server3.
+client0 receives a success message from server3, and the object value is 93.0.
+client0 requests to read object 94 on server3.
+client0 receives a success message from server3, and the object value is 94.0.
+client0 requests to read object 95 on server4.
+client0 receives a success message from server4, and the object value is 95.0.
+client0 requests to read object 96 on server0.
+client0 receives a success message from server0, and the object value is 96.0.
+client0 requests to read object 97 on server1.
+client0 receives a success message from server1, and the object value is 97.0.
+client0 requests to read object 99 on server3.
+client0 receives a success message from server3, and the object value is 99.0.
